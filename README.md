@@ -1,2 +1,1 @@
-# delivery-project
-# delivery-fullstack
+# delivery-project simulator
